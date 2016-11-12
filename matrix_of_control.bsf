@@ -22,7 +22,7 @@ agreement for further details.
 (header "symbol" (version "1.2"))
 (symbol
 	(rect 16 16 112 272)
-	(text "Control_Matrix" (rect 5 0 137 16)(font "Arial" (font_size 8)))
+	(text "matrix_of_control" (rect 5 0 165 16)(font "Arial" (font_size 8)))
 	(text "inst" (rect 8 238 41 252)(font "Arial" ))
 	(port
 		(pt 0 32)

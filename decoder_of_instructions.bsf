@@ -22,7 +22,7 @@ agreement for further details.
 (header "symbol" (version "1.2"))
 (symbol
 	(rect 16 16 112 144)
-	(text "Instruction_Decoder" (rect 5 0 184 16)(font "Arial" (font_size 8)))
+	(text "decoder_of_instructions" (rect 5 0 222 16)(font "Arial" (font_size 8)))
 	(text "inst" (rect 8 110 41 124)(font "Arial" ))
 	(port
 		(pt 0 32)
